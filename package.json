@@ -1,0 +1,15 @@
+{
+  "name": "segswork",
+  "version": "1.0.0",
+  "description": "Just for not being kicked from the org",
+  "main": "index.js",
+  "scripts": {
+    "main": "node index.js"
+  },
+  "author": "SEG",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.7.0",
+    "dotenv": "^16.0.1"
+  }
+}

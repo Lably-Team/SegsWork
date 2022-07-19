@@ -1,0 +1,4 @@
+{
+    "prefix_changed": ":white_check_mark: The prefix has been changed to `{prefix}`.",
+    "ping_result": ":alarm_clock: The current latency is of {number} ms"
+}
